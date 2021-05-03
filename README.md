@@ -6,6 +6,11 @@
 ![image](https://github.com/PedroXA/Projeto_instagram_dio/blob/89d04fa03a5672e28bdb030db60752bd6a04e6d6/IMG/projeto_1.png)
 
 
-#### Tecnologias Usadas:
+#### Tecnologias Usadas:🤖
 * CSS
 * HTML
+
+#### Conceitos Estudados: 📚
+* Responsividade
+* FlexBox
+* Aplicando as tags de forma mais produtiva.
